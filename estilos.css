@@ -1,0 +1,21 @@
+.nav{
+    background-color: #15191b;
+    color:white;
+}
+
+.formulario{
+    border-radius:6px;
+    padding:20px;
+    margin: 0 auto;
+    width:350px;
+}
+.main{
+    background-color: #42839d;
+}
+.fondoIcono{
+    text-decoration: none;
+    color:white;
+}
+.fondoIcono:hover{
+    color:orange;
+}
